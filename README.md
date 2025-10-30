@@ -3,7 +3,7 @@
 
 <p align="center">
 💡 <b>Data Analyst | Power BI | Python | SQL | Excel | Machine Learning</br>
-🎓 <b>B.Tech (CSE - Artificial Intelligence & Machine Learning)</b><b>
+🎓 <b>B.Tech (Artificial Intelligence & Machine Learning)</b><b>
 </p>
 
 ---
