@@ -25,7 +25,6 @@ My focus is on leveraging tools like **Power BI**, **Python**, and **SQL** to de
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -59,19 +58,6 @@ Predictive analytics project applying regression and classification algorithms.
   <a href="https://www.linkedin.com/in/panchangam-nagendra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:panchangamnagendra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Panchangam-Nagendra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Panchangam-Nagendra&show_icons=true&theme=radical&hide_border=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panchangam-Nagendra&layout=compact&theme=radical&hide_border=true" height="150px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Panchangam-Nagendra&theme=neon-dark&hide_border=true" height="150px"/>
 </p>
 
 ---
