@@ -30,17 +30,9 @@ My focus is on leveraging tools like **Power BI**, **Python**, and **SQL** to de
 
 ## 📊 Featured Projects  
 
-### 🛒 [Ecommerce Sales Dashboard](https://github.com/Panchangam-Nagendra/Ecommerce-Sales-Dashboard)
-An interactive Power BI dashboard analyzing sales, profit, and customer data across multiple states and categories.  
-**Tools:** Power BI, Excel, DAX, Power Query  
-
-### 📈 [Sales Insights Project](https://github.com/Panchangam-Nagendra/Sales-Insights)
-End-to-end BI project using SQL and Power BI for analyzing sales performance and KPIs.  
-**Tools:** SQL, Power BI  
-
-### 🤖 [Machine Learning Models](https://github.com/Panchangam-Nagendra/Machine-Learning)
-Predictive analytics project applying regression and classification algorithms.  
-**Tools:** Python, Scikit-Learn, Pandas  
+- **[E-commerce-Sales-Dashboard-Power-BI-Project](https://github.com/Panchangam-Nagendra/E-commerce-Sales-Dashboard-Power-BI-Project)** – Interactive Power BI dashboard analyzing E-commerce sales performance and key business metrics.  
+- **[OTT_Domain_DataAnalytics_Python](https://github.com/Panchangam-Nagendra/OTT_Domain_DataAnalytics_Python)** – Python-based data analytics project in the OTT domain generating insights on user behavior, content trends, and engagement.  
+- **[RetailOrders-using-Python-Sql](https://github.com/Panchangam-Nagendra/RetailOrders-using-Python-Sql)** – End-to-end retail data analytics project using Python and SQL Server for ETL, data cleaning, and insights.
 
 ---
 
