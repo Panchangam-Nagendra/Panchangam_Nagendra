@@ -2,8 +2,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00FFFF;">Panchangam Nagendra</span></h1>
 
 <p align="center">
-💡 <b>Data Analyst | Power BI | Python | SQL | Excel | Machine Learning</b>
-🎓 <b>B.Tech (CSE - Artificial Intelligence & Machine Learning)</b><br>
+💡 <b>Data Analyst | Power BI | Python | SQL | Excel | Machine Learning</br>
+🎓 <b>B.Tech (CSE - Artificial Intelligence & Machine Learning)</b><b>
 </p>
 
 ---
